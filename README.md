@@ -37,6 +37,7 @@ Some notable findings from the survey include:
 - Geographic location plays a role in compensation and professional experiences.
 
 Dashboard Preview :
+
 <img width="780" height="436" alt="Dashboard_Overview" src="https://github.com/user-attachments/assets/972afb3a-fb48-4d75-b018-8a26b6787cfd" />
 
 Dataset :
