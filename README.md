@@ -68,5 +68,5 @@ Through this project, I applied:
 - Data visualization best practices
 - DAX calculations and measures
 - Insight generation and storytelling with data
-LinkedIn: Add your LinkedIn profile link here
-GitHub: Add your GitHub profile link here
+
+LinkedIn: www.linkedin.com/in/rhoda-maina-4076751b8
